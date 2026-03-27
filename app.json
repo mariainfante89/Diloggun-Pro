@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Diloggun Pro",
+    "slug": "diloggun-pro",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "android": {
+      "package": "com.mariainfante89.diloggunpro",
+      "adaptiveIcon": {
+        "backgroundColor": "#000000"
+      }
+    }
+  }
+}
