@@ -4,6 +4,8 @@
     "slug": "diloggun-pro",
     "version": "1.0.0",
     "orientation": "portrait",
+    "icon": null,
+    "userInterfaceStyle": "light",
     "android": {
       "package": "com.mariainfante89.diloggunpro",
       "adaptiveIcon": {
