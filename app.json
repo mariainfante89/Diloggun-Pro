@@ -4,6 +4,7 @@
     "slug": "diloggun-pro",
     "version": "1.0.0",
     "orientation": "portrait",
+    "icon": "./icono.png",
     "userInterfaceStyle": "light",
     "splash": {
       "backgroundColor": "#000000"
@@ -11,6 +12,7 @@
     "android": {
       "package": "com.mariainfante89.diloggunpro",
       "adaptiveIcon": {
+        "foregroundImage": "./icono.png",
         "backgroundColor": "#000000"
       }
     },
