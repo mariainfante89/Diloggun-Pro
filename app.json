@@ -5,8 +5,14 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#000000"
+    },
     "android": {
-      "package": "com.mariainfante89.diloggunpro"
+      "package": "com.mariainfante89.diloggunpro",
+      "adaptiveIcon": {
+        "backgroundColor": "#000000"
+      }
     },
     "extra": {
       "eas": {
